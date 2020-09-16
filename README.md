@@ -65,7 +65,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [FlowChart](#FlowChart)
+* [FlowChart](#flowchart)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
