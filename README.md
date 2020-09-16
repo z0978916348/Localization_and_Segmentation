@@ -166,16 +166,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+<!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email -->
 
 Project Link: [https://github.com/z0978916348/Localization_and_Segmentation](https://github.com/z0978916348/Localization_and_Segmentation)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## References
 
-* []()
+* []() Ronneberger, O., Fischer, P., & Brox, T. (2015, October). U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
+
 * []()
 * []()
 
