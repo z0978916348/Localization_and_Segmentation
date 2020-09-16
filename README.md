@@ -99,7 +99,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* npm
+* Python
 ```sh
 numpy
 torch>=1.4
@@ -129,19 +129,18 @@ pip install requirements.txt
 ## Usage
 
 Use deep learning model to detect and segment spine precisely. We can use it to find Cobb Angle
-[![Product Name Screen Shot][Cobb]]
+![Cobb][Cobb]
 
 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Flow Chart
 
-See the [open issues](https://github.com/z0978916348/Localization_and_Segmentation/issues) for a list of proposed features (and known issues).
-
+![flowchart][flowchart]
 
 
 <!-- CONTRIBUTING -->
@@ -201,4 +200,4 @@ Project Link: [https://github.com/z0978916348/Localization_and_Segmentation](htt
 [product-screenshot]: images/screenshot.png
 [demo]: images/demo.jpg
 [Cobb]: images/Cobb.jpg
-
+[FlowChart]: images/flowchart.jpg
