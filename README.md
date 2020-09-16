@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/z0978916348/Localization_and_Segmentation">
+  <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -76,6 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<!-- [![Product Name Screen Shot][demo]](https://example.com) -->
 [![Product Name Screen Shot][demo]](https://example.com)
 
 Here's a blank template to get started:
@@ -189,3 +190,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-url]: https://linkedin.com/in/github_username
 [product-screenshot]: images/screenshot.png
 [demo]: images/demo.jpg
+github_username = z0978916348
