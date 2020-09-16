@@ -88,7 +88,7 @@
 
 * []() Python
 * []() Pytorch
-* []() Tensorflow
+* []() PyQt5
 
 
 
