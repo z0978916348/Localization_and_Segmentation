@@ -79,16 +79,16 @@
 <!-- [![Product Name Screen Shot][demo]](https://example.com) -->
 [![Product Name Screen Shot][demo]](https://example.com)
 
-Here's a blank template to get started:
+<!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+`github_username`, `repo_name`, `twitter_handle`, `email` -->
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* []() Python
+* []() Pytorch
+* []() Tensorflow
 
 
 
