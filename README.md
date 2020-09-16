@@ -122,6 +122,11 @@ git clone https://github.com/z0978916348/Localization_and_Segmentation.git
 ```sh
 pip install requirements.txt
 ```
+3. Excute 
+
+```sh
+python app.py
+```
 
 
 
