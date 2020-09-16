@@ -176,9 +176,10 @@ Project Link: [https://github.com/z0978916348/Localization_and_Segmentation](htt
 ## References
 
 * []() Ronneberger, O., Fischer, P., & Brox, T. (2015, October). U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
+* []()Z. Zhang, Q. Liu, and Y. Wang, “Road extraction by deep residual u-net,” IEEE Geoscience and Remote Sensing Letters, 2018, http://arxiv.org/abs/1711.10684.
+* []()Horng, M. H., Kuok, C. P., Fu, M. J., Lin, C. J., & Sun, Y. N. (2019). Cobb Angle Measurement of Spine from X-Ray Images Using Convolutional Neural Network. Computational and mathematical methods in medicine, 2019.
+* []()Al Arif, S. M. R., Knapp, K., & Slabaugh, G. (2017). Region-aware deep localization framework for cervical vertebrae in X-ray images. In Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support (pp. 74-82). Springer, Cham.
 
-* []()
-* []()
 
 
 
