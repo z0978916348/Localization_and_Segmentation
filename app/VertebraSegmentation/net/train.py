@@ -300,8 +300,8 @@ if __name__ == '__main__':
 
     ######################### detect #########################
 
-    traindataset = VertebraDataset("..//extend_detect_data", train=True)
-    testdataset = VertebraDataset("..//detect_data//f01", train=True)
+    traindataset = VertebraDataset("..//train", train=True)
+    testdataset = VertebraDataset("..//test", train=True)
     model = ResidualUNet(n_channels=1, n_classes=1)
     criterion = BCEWithLogitsLoss()
 

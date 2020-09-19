@@ -122,12 +122,44 @@ git clone https://github.com/z0978916348/Localization_and_Segmentation.git
 ```sh
 pip install requirements.txt
 ```
-3. Excute 
+3. Prepare VertebraSegmentation data
+```sh
+　　└ train
+   　　 └ 1.png
+   　　 └ 2.png
+   　　 └ ...
+　　└ test
+   　　 └ 5.png
+   　　 └ 6.png
+   　　 └ ...
+　　└ valid
+   　　 └ 8.png
+   　　 └ 9.png
+   　　 └ ...
+```
+4. Prepare PyTorch_YOLOv3 data
 
+Classes
+Add class names to data/custom/classes.names. This file should have one row per class name.
+
+Image Folder
+Move the images of your dataset to data/custom/images/. 
+<font color=#FF0000>train and valid respectively</font>
+
+Annotation Folder
+Move your annotations to data/custom/labels/. The dataloader expects that the annotation file corresponding to the image data/custom/images/train.jpg has the path data/custom/labels/train.txt. Each row in the annotation file should define one bounding box, using the syntax label_idx x_center y_center width height. The coordinates should be scaled [0, 1], and the label_idx should be zero-indexed and correspond to the row number of the class name in data/custom/classes.names. 
+<font color=#FF0000>train and valid respectively</font>
+
+Define Train and Validation Sets
+In data/custom/train.txt and data/custom/valid.txt, add paths to images that will be used as train and validation data respectively.
+
+After training, you can follow app.py folder to put your dataset into correspond folder.
+It it easy to know, I will not step by step for description
+
+5. Excute 
 ```sh
 python app.py
 ```
-
 
 
 <!-- USAGE EXAMPLES -->
