@@ -229,7 +229,7 @@ Project Link: [https://github.com/z0978916348/Localization_and_Segmentation](htt
 [contributors-shield]: https://img.shields.io/github/contributors/z0978916348/repo.svg?style=flat-square
 [contributors-url]: https://github.com/z0978916348/repo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/z0978916348/repo.svg?style=flat-square
-[forks-url]: https://github.com/z0978916348/repo/network/members
+[forks-url]: https://github.com/eriklindernoren/PyTorch-YOLOv3
 [stars-shield]: https://img.shields.io/github/stars/z0978916348/repo.svg?style=flat-square
 [stars-url]: https://github.com/z0978916348/repo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/z0978916348/repo.svg?style=flat-square
