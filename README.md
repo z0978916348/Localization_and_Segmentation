@@ -22,14 +22,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<!-- [![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+<!-- [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url] --> -->
 
-[![LinkedIn][linkedin-shield]][forks-url]
 
 
 
@@ -230,7 +229,7 @@ Project Link: [https://github.com/z0978916348/Localization_and_Segmentation](htt
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/z0978916348/repo.svg?style=flat-square
 [contributors-url]: https://github.com/z0978916348/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/z0978916348/repo.svg?style=flat-square
+[forks-shield]: https://github.com/eriklindernoren/PyTorch-YOLOv3
 [forks-url]: https://github.com/eriklindernoren/PyTorch-YOLOv3
 [stars-shield]: https://img.shields.io/github/stars/z0978916348/repo.svg?style=flat-square
 [stars-url]: https://github.com/z0978916348/repo/stargazers
